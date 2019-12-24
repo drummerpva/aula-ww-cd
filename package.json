@@ -1,0 +1,24 @@
+{
+  "name": "aula-ww-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drummerpva/aula-ww-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drummerpva/aula-ww-cd/issues"
+  },
+  "homepage": "https://github.com/drummerpva/aula-ww-cd#readme"
+}
