@@ -3,4 +3,5 @@ WORKDIR /usr/share/nginx
 RUN rm -rf /usr/share/nginx/html
 COPY . /usr/share/nginx
 RUN npm install
+RUN npm start
 
